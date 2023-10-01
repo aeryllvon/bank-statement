@@ -1,6 +1,6 @@
 ### Bank Statement Analysis - **Achieved 66.31% of potential savings.**
 
-![Potential Savings](potentitalsavingsvisual.png)
+![savings.html](potentitalsavingsvisual.png)
 
 **Navigating Finances with Data-Driven Insights and Smart Spending**
 
