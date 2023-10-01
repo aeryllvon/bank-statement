@@ -1,6 +1,8 @@
 ### Bank Statement Analysis - **Achieved 66.31% of potential savings.**
 
-![savings.html](potentitalsavingsvisual.png)
+<a href="https://aeryllvon.github.io/bank-statement/savings.html" target="_blank">![Savings](potentitalsavingsvisual.png)</a>
+
+
 
 **Navigating Finances with Data-Driven Insights and Smart Spending**
 
